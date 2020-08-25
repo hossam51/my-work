@@ -25,7 +25,7 @@ h1,h2,h3,h4,h5,h6,input,span,img,button,p,strong,a,textarea,ul,li,label,hr{posit
   
 .header .slider{
 	position:relative;
-	background-image:url(imags/17.jpg);
+	background-image:url(17.jpg);
 	background-size:cover;/*css3*/
 	height:500px;
 } 
